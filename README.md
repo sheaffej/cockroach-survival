@@ -5,7 +5,7 @@ CockroachDB survival simulation tool
 For more information visit: https://github.com/BramGruneir/survival
 
 The Docker image is available at:
-[sheaffej/cockroachdb-survival](https://hub.docker.com/repository/docker/sheaffej/cockroachdb-survival)
+[sheaffej/cockroach-survival](https://hub.docker.com/repository/docker/sheaffej/cockroachdb-survival)
 
 #### Building yourself:
 Building will pull the latest version from [BramGruneir/survival](https://github.com/BramGruneir/survival).
